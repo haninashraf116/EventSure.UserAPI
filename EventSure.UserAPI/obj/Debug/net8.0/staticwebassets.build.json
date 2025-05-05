@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dp7kg+HVGj7nz1wXK6Znc33wCk3cnjTZv57SGbJwBng=",
+  "Source": "EventSure.UserAPI",
+  "BasePath": "_content/EventSure.UserAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

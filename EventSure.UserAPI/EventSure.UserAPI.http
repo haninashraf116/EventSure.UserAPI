@@ -1,0 +1,6 @@
+@EventSure.UserAPI_HostAddress = http://localhost:5084
+
+GET {{EventSure.UserAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
